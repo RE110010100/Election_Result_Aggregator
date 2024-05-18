@@ -22,3 +22,5 @@ The Election Result Aggregator is a data processing pipeline designed to analyze
    ```sql
    CREATE DATABASE election_data;
    USE election_data;
+   ```
+
