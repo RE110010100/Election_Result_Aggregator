@@ -31,8 +31,8 @@ The Election Result Aggregator is a data processing pipeline designed to analyze
    ```
 ### Clone the Repository
 ```bash
-git clone https://your-repository-url.git
-cd your-project-directory
+git clone git@github.com:RE110010100/Election_Result_Aggregator.git
+cd Election_Result_Aggregator
 ```
 ## Usage
 
